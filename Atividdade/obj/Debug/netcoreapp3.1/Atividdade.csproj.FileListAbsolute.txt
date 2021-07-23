@@ -1,0 +1,13 @@
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\bin\Debug\netcoreapp3.1\Atividdade.exe
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\bin\Debug\netcoreapp3.1\Atividdade.deps.json
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\bin\Debug\netcoreapp3.1\Atividdade.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\bin\Debug\netcoreapp3.1\Atividdade.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\bin\Debug\netcoreapp3.1\Atividdade.dll
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\bin\Debug\netcoreapp3.1\Atividdade.pdb
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.csproj.AssemblyReference.cache
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.dll
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.pdb
+C:\Users\antonio.marques\Documents\C#\Linq\Atividdade\Atividdade\obj\Debug\netcoreapp3.1\Atividdade.genruntimeconfig.cache
